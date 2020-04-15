@@ -1,6 +1,6 @@
 {
-  "name": "three-buffer-vertex-data",
-  "version": "1.0.1",
+  "name": "@ptsoptics/three-buffer-vertex-data",
+  "version": "1.0.2",
   "description": "an easy way to set vertex data on a BufferGeometry",
   "main": "index.js",
   "license": "MIT",
@@ -52,7 +52,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Jam3/three-buffer-vertex-data.git"
+    "url": "git://github.com/PTSoptics/three-buffer-vertex-data.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/Jam3/three-buffer-vertex-data",
   "bugs": {
