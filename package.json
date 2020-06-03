@@ -15,7 +15,7 @@
   "devDependencies": {
     "baboon-image-uri": "^1.0.1",
     "browserify": "^12.0.1",
-    "budo": "^7.0.0",
+    "budo": "^11.6.3",
     "img": "^1.0.0",
     "primitive-quad": "^1.0.1",
     "primitive-sphere": "^2.0.0",
